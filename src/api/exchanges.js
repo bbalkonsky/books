@@ -1,0 +1,1 @@
+import { exchangesTable } from '../utils/airtable';

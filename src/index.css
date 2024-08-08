@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.ant-modal, .ant-modal-content {
+  /* top: 20px; */
+  /* height: 85vh; */
+  /* overflow-y: 'auto'; */
+}
+.ant-modal-body::-webkit-scrollbar {
+  display: none;
+}
+.ant-modal-body {
+  scrollbar-width: none;
+}
