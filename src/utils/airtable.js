@@ -1,7 +1,7 @@
 import Airtable from 'airtable';
 
-const airtableApiKey = 'keySTsXNwYF5eTrZj';
-const baseId = 'appohKS0I5KJOiXZr';
+const airtableApiKey = 'hehe';
+const baseId = 'hihi';
 
 Airtable.configure({
     apiKey: airtableApiKey,
